@@ -5,11 +5,7 @@
 
 <div class="readme" align="center" dir="auto">
 <a href="https://github.com/eduardodasilva74">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodasilva74&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/eduardodasilva74">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodasilva74&amp;layout=compact&amp;langs_count=7&amp;theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardodasilva74&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 </div>
 <!---
