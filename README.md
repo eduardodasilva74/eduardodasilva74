@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo PHP
 
 
-<div class="readme" align="center" display="flex">
+<div class="readme" align="center" dir="auto">
 <a href="https://github.com/eduardodasilva74">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardodasilva74&show_icons=true&theme=dark" />
 </a>
