@@ -5,7 +5,7 @@
 - ⚡ Sempre buscando adquirir conhecimento.
 <br>
 
-## Linguagens que utilizo:
+## Linguagens e tecnologias que eu utilizo 👇
 
 <br>
 <div align="center" style="display: inline_block"><br>
